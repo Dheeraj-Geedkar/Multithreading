@@ -1,0 +1,18 @@
+ ************* )  Multitasking : - 
+
+=> Multitasking allows several activities to occur concurrently on the computer
+
+************** ) Types of multi threading ;-
+
+=> 1 ) Process based multithreading :- Allows processes or programs to run concurrently on the computer 
+         
+=> 2 ) Thread based multithreading :- Allows thread or parts of same program to run concurrently on the computer
+
+************** )  threads vs process ;-
+
+=> Two threads shared the same address space
+=> Context switching between threads is usually less expensive than between processes
+=> The cost of communication between threads is relatively low
+
+************** )  Why multithreading  ;-
+
